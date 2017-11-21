@@ -1,2 +1,2 @@
-# APPstoreRule2017
-2017最新苹果APPstore审核协议
+# 2017最新苹果APPstore审核协议
+
